@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harpal Singh</h1>
-<h3 align="center">A Computer Technology Student at Amritsar Group Of Colleges(AGC),Amritsar.Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
+<h3 align="center">A Computer Technology Student at Amritsar Group Of Colleges(AGC),Amritsar.Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
