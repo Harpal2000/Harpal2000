@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harpal Singh</h1>
-<h3 align="center">A Computer Technology Student at Amritsar Group Of Colleges(AGC),Amritsar.Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something</h3>
+<h3 align="center">👋 Hello, I'm Harpal Singh, a final year B.Tech CSE student at Amritsar Group of Colleges. Welcome to my GitHub profile!
+
+💻 I'm passionate about web development and have honed my skills in HTML, CSS, Bootstrap 5, JavaScript, AJAX, jQuery, PHP, Node.js, and MySQL. With a strong foundation in these technologies, I strive to create dynamic and responsive web applications.
+
+🌟 Throughout my academic journey, I've gained hands-on experience working on various projects, both individually and collaboratively. These experiences have allowed me to develop a deep understanding of software development principles, as well as enhance my problem-solving and analytical skills.
+
+🚀 I believe in continuous learning and stay updated with the latest industry trends and best practices in web development. I enjoy exploring new frameworks and tools that can help me build robust and efficient applications.
+
+📚 Aside from coding, I actively participate in programming communities and engage in discussions to expand my knowledge and share my insights. I'm always excited about taking up new challenges and turning them into opportunities for growth.
+
+✨ Feel free to explore my GitHub repositories to get a glimpse of my projects and contributions. If you have any queries or would like to collaborate on an exciting project, I'm just a message away!
+
+Looking forward to connecting with fellow developers and making a positive impact in the world of web development! 🌐</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
