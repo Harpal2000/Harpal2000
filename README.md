@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harpal Singh</h1>
-<h5>👋 Hello, I'm Harpal Singh, a final year B.Tech CSE student at Amritsar Group of Colleges. Welcome to my GitHub profile!
-
+<h5>
+ 👋 Hello, I'm Harpal Singh, a final year B.Tech CSE student at Amritsar Group of Colleges. Welcome to my GitHub profile!
+ 
 💻 I'm passionate about web development and have honed my skills in HTML, CSS, Bootstrap 5, JavaScript, AJAX, jQuery, PHP, Node.js, and MySQL. With a strong foundation in these technologies, I strive to create dynamic and responsive web applications.
 
 🌟 Throughout my academic journey, I've gained hands-on experience working on various projects, both individually and collaboratively. These experiences have allowed me to develop a deep understanding of software development principles, as well as enhance my problem-solving and analytical skills.
