@@ -2,7 +2,7 @@
 <h5>
  👋 Hello, I'm Harpal Singh, a final year B.Tech CSE student at Amritsar Group of Colleges. Welcome to my GitHub profile!
  
-💻 I'm passionate about web development and have honed my skills in HTML, CSS, Bootstrap 5, JavaScript, AJAX, jQuery, PHP, Node.js, and MySQL. With a strong foundation in these technologies, I strive to create dynamic and responsive web applications.
+💻 I'm passionate about web development and have honed my skills in HTML, CSS, Bootstrap 5, JavaScript, AJAX, jQuery, React.js, Node.js, and MySQL. With a strong foundation in these technologies, I strive to create dynamic and responsive web applications.
 
 🌟 Throughout my academic journey, I've gained hands-on experience working on various projects, both individually and collaboratively. These experiences have allowed me to develop a deep understanding of software development principles, as well as enhance my problem-solving and analytical skills.
 
@@ -17,9 +17,7 @@ Looking forward to connecting with fellow developers and making a positive impac
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js,javascript**
-
-- 💬 Ask me about **Node,Javascript**
+- 💬 Ask me about **React.js,Node.js,Javascript**
 
 - 📫 How to reach me **rajanbabrah056@gmail.com**
 
